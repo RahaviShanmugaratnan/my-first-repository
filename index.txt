@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Rahavi Shanmugaratnan</title>
+</head>
+<body>
+  <h1>Welcome to my website!</h1>
+    <p>Rahavi Shanmugaratnan is a 19-year-old girl who is really busy developing herself. Her ambition is to become a movie director one day. She will let the beast inside of her grow by discovering, struggling, learning and creating in this world. Being an IMEM-student will help her on her journey to the top.</p>
+
+<img src="images/beyonce.jpg" alt="BEYONCE">
+
+<a href="www.buas.nl">BUas website</a>
+
+<!-- This is a comment in a code -->
+
+<button>
+	
+<video href="videos/Cat.MP4">
+</body>
+</html>
